@@ -42,8 +42,8 @@ return output;
         Vector<Integer> e1 = new Vector<Integer>(n); 
         Vector<Integer> e2 = new Vector<Integer>(n); 
 
-        List<Integer> l1 = new Vector<Integer>(n); 
-        List<Integer> l2 = new Vector<Integer>(n); 
+//        List<Integer> l1 = new Vector<Integer>(n); 
+//        List<Integer> l2 = new Vector<Integer>(n); 
 
         // Appending new elements at 
         // the end of the vector 
@@ -66,8 +66,8 @@ return output;
   	Vector<Integer> r4 = union(v1,v1);
         System.out.println(r4); 
 
-  	List<Integer> r5 = union(l1,l2);
-        System.out.println(r5); 
+//  	List<Integer> r5 = union(l1,l2);
+//        System.out.println(r5); 
 
     } 
 }
